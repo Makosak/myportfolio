@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "M. A. Kolak"
-  pronouns         : "she"  
+  pronouns         : # "she"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Urbana, Illinois"
+  employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
   email            : "none@example.org" 
 
