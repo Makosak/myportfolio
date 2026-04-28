@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "M. A. Kolak"
+title                    : "Marynia Kolak's Website"
 title_separator          : "-"
-name                     : &name "Marynia Kolak"
-description              : &description "My Portfolio Website"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Marynia A. Kolak"
+description              : &description "Kolak's Site of Stuff"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://makosak.github.io/myportfolio # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,25 +26,25 @@ author:
   avatar           : "profile.png"
   name             : "M. A. Kolak"
   pronouns         : # "she"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Geospatial social scientist epi enthusaist"
   location         : "Urbana, Illinois"
   employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mkolak@illinois.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
