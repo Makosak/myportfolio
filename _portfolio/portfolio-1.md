@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-excerpt: "A Sample of Projects<br/><img src='/images/500x300.png'>"
+title: "Intro to Spatial Analysis"
+excerpt: "A series of computational notebooks to introduce spatial data concepts. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
