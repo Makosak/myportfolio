@@ -1,14 +1,12 @@
 ---
 title: "Intro to Spatial Analysis"
-excerpt: "A series of computational notebooks to introduce spatial data concepts. <br/><img src='/images/urbana.png'>"
+excerpt: "A series of computational notebooks to introduce spatial data concepts. <br/> <img src='/images/urbana.png'>"
 collection: portfolio
 ---
 
 For **GGIS 371: Spatial Analysis** taught in Spring 2026 at UIUC, I developed a series of computational notebooks to align students coming from different experiences (code, no code, some GIS coursework, no GIS coursework). 
 
-We used the new classic, [Geographic Data Science](https://geographicdata.science/) by Rey et al (2025) to guide coding and learning throughout the course. The first three labs worked with data and concepts from the first three chapters of the text, reframed slightly to be more beginner-friendly. We used the UIUC [CyberGISX](https://cybergisxhub.cigi.illinois.edu/) environment as a standardized cloud interface for working with Python.
-
-The following notebooks are meant to serve as "notes" to use alongside [Geographic Data Science](https://geographicdata.science/): 
+We used the new classic, [Geographic Data Science](The following notebooks are meant to serve as "notes" to use alongside [Geographic Data Science](https://geographicdata.science/):) by Rey et al (2025) to guide coding and learning throughout the course. The first three labs worked with data and concepts from the first three chapters of the text, reframed slightly to be more beginner-friendly. We used the UIUC [CyberGISX](https://cybergisxhub.cigi.illinois.edu/) environment as a standardized cloud interface for working with Python.
 
 ## [Week 1: Intro to Python](https://github.com/Makosak/myportfolio/blob/master/files/Ch1-Intro2Py.ipynb)
 In the first week's lab, our goal was to get familiar with *applied programming*, using Python in the CyberGISX environment. That means creating our first Jupter Notebook! Specific objectives include:
