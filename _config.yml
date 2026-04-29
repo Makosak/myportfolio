@@ -23,7 +23,7 @@ repository               : "Makosak/myportfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bw_biopic.png"
   name             : "M. A. Kolak"
   pronouns         : # "she"  
   bio              : "Spatial Data Scientist & Health Geographer"
