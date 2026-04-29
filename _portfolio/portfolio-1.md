@@ -10,7 +10,7 @@ We used the new classic, [Geographic Data Science](https://geographicdata.scienc
 
 The following notebooks are meant to serve as "notes" to use alongside [Geographic Data Science](https://geographicdata.science/): 
 
-## Week 1: Intro to Python
+## [Week 1: Intro to Python](https://github.com/Makosak/myportfolio/blob/master/files/Ch1-Intro2Py.ipynb)
 In the first week's lab, our goal was to get familiar with *applied programming*, using Python in the CyberGISX environment. That means creating our first Jupter Notebook! Specific objectives include:
 
 - Setting up a coding environment in CyberGISX
