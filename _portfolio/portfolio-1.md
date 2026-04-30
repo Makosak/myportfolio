@@ -1,6 +1,6 @@
 ---
 title: "Intro to Spatial Analysis"
-excerpt: "A series of computational notebooks to introduce spatial data concepts with Python. <br/> <img src='https://raw.githubusercontent.com/Makosak/myportfolio/refs/heads/master/images/urbana1.png'>"
+excerpt: "A series of computational notebooks to introduce spatial data concepts with Python. <br/> <br/> <img src='https://raw.githubusercontent.com/Makosak/myportfolio/refs/heads/master/images/urbana1.png'>"
 collection: portfolio
 ---
 
